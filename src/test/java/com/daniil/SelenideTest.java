@@ -1,3 +1,5 @@
+package com.daniil;
+
 import com.codeborne.selenide.Condition;
 import org.junit.jupiter.api.Test;
 

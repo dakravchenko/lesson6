@@ -1,3 +1,5 @@
+package com.daniil;
+
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.WebDriverRunner;
 import io.qameta.allure.Allure;
